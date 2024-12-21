@@ -52,7 +52,8 @@ export default function App() {
 
 
   ]
-  return <>
+  return (
+  <>
   <div className="container">
     <h1 className="my-4">Page Heading
       <small>Secondary Text</small>
@@ -77,5 +78,5 @@ export default function App() {
     </div>
   </div>
   </>
-          
+  );        
 }
