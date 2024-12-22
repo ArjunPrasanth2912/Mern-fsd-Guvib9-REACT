@@ -1,6 +1,8 @@
-/* section.pricing {
-  background: #007bff;
-  background: linear-gradient(to right, #0062E6, #33AEFF);
+section.pricing {
+  background: #d0ff00;
+  background: linear-gradient(to right, #0f03b8, #d0ff00);
+  height : 100vh;
+
 }
 
 .pricing .card {
@@ -49,8 +51,8 @@
 }
 
 /* Hover Effects on Card */
-
-/* @media (min-width: 992px) {
+ 
+@media (min-width: 992px) {
   .pricing .card:hover {
     margin-top: -.25rem;
     margin-bottom: .25rem;
@@ -60,4 +62,4 @@
   .pricing .card:hover .btn {
     opacity: 1;
   }
-} */ */
+} 
